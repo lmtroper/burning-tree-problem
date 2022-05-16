@@ -35,15 +35,15 @@ public class IntTreeNodeTest {
 		sixth.right = ninth;
 		ninth.right = tenth;
 		
-    	//			 1
-    	//		   /   \
-    	//		  2     3
+    	//	     1
+    	//	   /   \
+    	//        2     3
     	//  	 / \     \
     	//  	4   5     6
     	//         / \     \
     	//        7   8     9
-    	//					 \
-    	//					  10
+    	//		     \
+    	//		      10
     	
     	//Start burning at node 8
     	//Takes 7 seconds
@@ -72,9 +72,9 @@ public class IntTreeNodeTest {
 		third.right = seventh;
 
     	
-    	//			 1
-    	//		   /   \
-    	//		  2     3
+    	//	     1
+    	//	   /   \
+    	//	  2     3
     	//  	 / \     \
     	//  	4   5     7
     	//     /    /
@@ -119,9 +119,9 @@ public class IntTreeNodeTest {
 		seventh.left = fourteenth;
 		seventh.left = fifteenth;
     
-    	//			         1
-    	//		     /             \
-    	//		    2               3
+    	//		    1
+    	// 	     /             \
+    	// 	    2               3
     	//  	 /     \         /    \
     	//  	4       5       6      7
     	//     / \     / \     / \    / \
@@ -169,9 +169,9 @@ public class IntTreeNodeTest {
     
     	
     
-    	//			         1
-    	//		     /             \
-    	//		    2               3
+    	//	  	    1
+    	//	     /             \
+    	//	   2               3
     	//  	 /     \         /    \
     	//  	4       5       6      7
     	//     / \     / \     / \    / \
@@ -212,9 +212,9 @@ public class IntTreeNodeTest {
 		first.right.right = seventh;
 
     	
-    	//			 1
-    	//		   /   \
-    	//		  2     3
+    	//	     1
+    	//	   /   \
+    	//        2     3
     	//  	 / \   / \
     	//  	4   5 6   7
 
@@ -243,15 +243,15 @@ public class IntTreeNodeTest {
 		sixth.right = ninth;
 		ninth.right = tenth;
     	
-    	//			 1
-    	//		   /   \
-    	//		  2     3
+    	//	     1
+    	//	   /   \
+    	//	  2     3
     	//  	 / \     \
     	//  	4   5     6
     	//         / \     \
     	//        7   8     9
-    	//					 \
-    	//					  10
+    	//		     \
+    	//		      10
     	
     	//Start burning at node 1
     	//Takes 4 seconds
@@ -277,15 +277,15 @@ public class IntTreeNodeTest {
 		sixth.right = ninth;
 		ninth.right = tenth;
     	
-    	//			 1
-    	//		   /   \
-    	//		  2     3
+    	//	     1
+    	//	   /   \
+    	//   	  2     3
     	//  	 / \     \
     	//  	4   5     6
     	//         / \     \
     	//        7   8     9
-    	//					 \
-    	//					  10
+    	//		     \
+    	//		      10
     	
     	//Start burning at node 23
     	//Takes 0 seconds
@@ -324,21 +324,21 @@ public class IntTreeNodeTest {
 		twelvth.left = thirteenth;
 
     	
-    	//			      1
-    	//		        /   \
-    	//		       2     3
+    	//		  1
+    	//	        /   \
+    	//	       2     3
     	//  	      / \     \
     	//  	     4   5     7
     	//          /    /
     	//         8   10
-		//	      /
-		//       9
-		//      /
-		//    11
-		//	  /
-		//   12
-		//  / 
-		// 13
+	//	  /
+	//       9
+	//      /
+	//    11
+	//    /
+	//   12
+	//  / 
+	// 13
     	
     	//Start burning at node 10
     	//Takes 5 seconds
@@ -378,21 +378,21 @@ public class IntTreeNodeTest {
 		twelvth.left = thirteenth;
 
     	
-    	//			      1
-    	//		        /   \
-    	//		       2     3
+    	//		  1
+    	//	        /   \
+    	//	       2     3
     	//  	      / \     \
     	//  	     4   5     7
     	//          /    /
     	//         8   10
-		//	      /
-		//       9
-		//      /
-		//    11
-		//	  /
-		//   12
-		//  / 
-		// 13
+	//	  /
+	//       9
+	//      /
+	//    11
+	//    /
+	//   12
+	//  / 
+	// 13
     	
     	//Start burning at node 10
     	//Takes 5 seconds
